@@ -1,5 +1,5 @@
 # web-form
-### learnuing how form works in vue.js
+### learning how form works in vue.js
 ## Project setup
 ```
 npm install
